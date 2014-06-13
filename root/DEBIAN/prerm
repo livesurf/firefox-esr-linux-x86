@@ -9,4 +9,3 @@ if [ "$1" = "remove" ] ; then
     update-alternatives --remove x-www-browser /usr/bin/$MOZ_APP_NAME
 fi
 
-
