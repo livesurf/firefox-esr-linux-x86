@@ -1,0 +1,2 @@
+/etc/apparmor.d/usr.bin.firefox
+/etc/firefox/syspref.js
