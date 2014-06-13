@@ -1,0 +1,4 @@
+2b7b3e38b64dd286c1d5e2659bdde154  etc/apparmor.d/usr.bin.firefox
+09e457e65435a1a043521f2bd19cd2a1  etc/firefox/syspref.js
+7e0a7b0ac48177ed6ce4734428f12d91  usr/share/applications/firefox.desktop
+528dfb28e2cb6f774b63c6ec5981b052  usr/share/lintian/overrides/firefox
