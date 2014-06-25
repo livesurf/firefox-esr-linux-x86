@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width; user-scalable=false;">
+  <title>about:buildconfig</title>
+  <link rel="stylesheet" href="chrome://global/skin/about.css" type="text/css">
+  <style type="text/css">
+    th { text-align: start; }
+    h2 { margin-top: 1.5em; }
+    th, td { vertical-align: top; }
+  </style>
+</head>
+<body class="aboutPageWideContainer">
+<h1>about:buildconfig</h1>
+<h2>Build Machine</h2>
+<p>bld-linux64-ec2-049</p>
+<h2>Source</h2>
+<p>Built from <a href="https://hg.mozilla.org/releases/mozilla-esr24/rev/0762576b4db9">https://hg.mozilla.org/releases/mozilla-esr24/rev/0762576b4db9</a></p>
+<h2>Build platform</h2>
+<table>
+  <tbody>
+    <tr>
+      <th>target</th>
+    </tr>
+    <tr>
+      <td>i686-pc-linux-gnu</td>
+    </tr>
+  </tbody>
+</table>
+<h2>Build tools</h2>
+<table>
+  <tbody>
+    <tr>
+      <th>Compiler</th>
+      <th>Version</th>
+      <th>Compiler flags</th>
+    </tr>
+    <tr>
+      <td> /tools/gcc-4.7.3-0moz1/bin/gcc -m32 -march=pentiumpro</td>
+      <td>gcc version 4.7.3 (GCC) </td>
+      <td> -Wall -Wpointer-arith -Wdeclaration-after-statement -Werror=return-type -Wtype-limits -Wempty-body -Wsign-compare -Wno-unused -Wcast-align -std=gnu99 -fgnu89-inline -fno-strict-aliasing -ffunction-sections -fdata-sections -pthread -pipe  -DNDEBUG -DTRIMMED -g -fprofile-use -fprofile-correction -Wcoverage-mismatch -O3 -fomit-frame-pointer</td>
+    </tr>
+    <tr>
+      <td> /tools/gcc-4.7.3-0moz1/bin/g++ -m32 -march=pentiumpro</td>
+      <td>gcc version 4.7.3 (GCC) </td>
+      <td> -Wall -Wpointer-arith -Woverloaded-virtual -Werror=return-type -Wtype-limits -Wempty-body -Wsign-compare -Wno-invalid-offsetof -Wcast-align -fno-exceptions -fno-strict-aliasing -fno-rtti -ffunction-sections -fdata-sections -fno-exceptions -std=gnu++0x -pthread -pipe  -DNDEBUG -DTRIMMED -g -fprofile-use -fprofile-correction -Wcoverage-mismatch -O3 -fomit-frame-pointer </td>
+    </tr>
+  </tbody>
+</table>
+<h2>Configure arguments</h2>
+<p>--enable-update-channel=esr --enable-update-packaging --with-google-api-keyfile=/builds/gapi.data --enable-elf-hack --target=i686-pc-linux --x-libraries=/usr/lib --enable-stdcxx-compat --enable-warnings-as-errors --enable-official-branding</p>
+</body>
+</html>

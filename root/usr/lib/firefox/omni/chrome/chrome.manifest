@@ -1,0 +1,32 @@
+content marionette marionette/content/
+content specialpowers marionette/content/
+content mozapps toolkit/content/mozapps/
+content global-platform toolkit/content/global-platform/ platform
+skin global classic/1.0 toolkit/skin/classic/global/ os=WINNT osversion<6
+skin mozapps classic/1.0 toolkit/skin/classic/mozapps/ os=WINNT osversion<6
+content satchel toolkit/content/satchel/
+content global toolkit/content/global/ contentaccessible=yes
+skin mozapps classic/1.0 toolkit/skin/classic/mozapps/ os!=WINNT
+content passwordmgr toolkit/content/passwordmgr/
+content global-region toolkit/content/global-region/
+content xbl-marquee toolkit/content/xbl-marquee/
+content cookie toolkit/content/cookie/
+skin global classic/1.0 toolkit/skin/classic/global/ os!=WINNT
+content recording recording/content/
+content pippki pippki/content/pippki/
+locale global-platform zh-CN zh-CN/locale/zh-CN/global-platform/
+locale cookie zh-CN zh-CN/locale/zh-CN/cookie/
+locale places zh-CN zh-CN/locale/zh-CN/places/
+locale necko zh-CN zh-CN/locale/zh-CN/necko/
+locale alerts zh-CN zh-CN/locale/zh-CN/alerts/
+locale pipnss zh-CN zh-CN/locale/zh-CN/pipnss/
+locale autoconfig zh-CN zh-CN/locale/zh-CN/autoconfig/
+locale mozapps zh-CN zh-CN/locale/zh-CN/mozapps/
+locale passwordmgr zh-CN zh-CN/locale/zh-CN/passwordmgr/
+locale global zh-CN zh-CN/locale/zh-CN/global/
+locale global-region zh-CN zh-CN/locale/zh-CN/global-region/
+locale weave zh-CN zh-CN/locale/zh-CN/
+locale pippki zh-CN zh-CN/locale/zh-CN/pippki/
+resource specialpowers marionette/modules/
+resource gre-resources toolkit/res/
+override chrome://global/content/nsTransferable.js chrome://global/content/nsDragAndDrop.js

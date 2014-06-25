@@ -1,0 +1,20 @@
+skin browser classic/1.0 browser/skin/classic/browser/
+content branding browser/content/branding/ contentaccessible=yes
+content browser browser/content/browser/ contentaccessible=yes
+skin communicator classic/1.0 browser/skin/classic/communicator/
+locale browser zh-CN zh-CN/locale/browser/
+locale pdf.js zh-CN zh-CN/locale/pdfviewer/
+locale branding zh-CN zh-CN/locale/branding/
+locale browser-region zh-CN zh-CN/locale/browser-region/
+overlay chrome://browser/content/browser.xul chrome://browser/content/report-phishing-overlay.xul
+overlay chrome://global/content/viewPartialSource.xul chrome://browser/content/viewSourceOverlay.xul
+override chrome://global/skin/icons/warning-16.png moz-icon://stock/gtk-dialog-warning?size=menu
+overlay chrome://global/content/viewSource.xul chrome://browser/content/viewSourceOverlay.xul
+style chrome://global/content/customizeToolbar.xul chrome://browser/content/browser.css
+overlay chrome://browser/content/places/places.xul chrome://browser/content/places/downloadsViewOverlay.xul
+override chrome://global/content/license.html chrome://browser/content/license.html
+style chrome://global/content/customizeToolbar.xul chrome://browser/skin/
+manifest pdfjs/pdfjs.manifest
+override chrome://global/locale/netError.dtd chrome://browser/locale/netError.dtd
+override chrome://mozapps/locale/downloads/settingsChange.dtd chrome://browser/locale/downloads/settingsChange.dtd
+override chrome://global/locale/appstrings.properties chrome://browser/locale/appstrings.properties
