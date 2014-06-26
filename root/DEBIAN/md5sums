@@ -12,7 +12,7 @@ f9b700918938fec0a3730ce8d29d01b3  usr/lib/firefox/browser/chrome.manifest
 a6e5ff0c78ddfb1da7b6c518a537e067  usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}/icon.png
 9ef1dd0f92f19cfa904a175e5c87c14c  usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}/install.rdf
 2c33a28d0fd6b94bffe717df9ca6a236  usr/lib/firefox/browser/icons/mozicon128.png
-ec156684cf60c046b026f344c19ed239  usr/lib/firefox/browser/omni.ja
+794bd8bce6c7e828ee0e8f699ae6bfc0  usr/lib/firefox/browser/omni.ja
 71e1d0ed715ae02dfc4bc94c2d9ebf04  usr/lib/firefox/browser/searchplugins/amazondotcn.xml
 82a8676433022b239c069b107206aff3  usr/lib/firefox/browser/searchplugins/baidu.xml
 e191dcb256189343980c59e33ee5afb8  usr/lib/firefox/browser/searchplugins/baiduzhidao.xml
