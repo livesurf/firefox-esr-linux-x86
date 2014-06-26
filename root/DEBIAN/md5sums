@@ -61,7 +61,7 @@ c06a12824481fa345b61a851e1e27478  usr/lib/firefox/run-mozilla.sh
 8ca65f76d90e534a9c64988ce979ea2f  usr/lib/firefox/updater
 c60066f08b5ce93c63763b5e0e118894  usr/lib/firefox/updater.ini
 9da60ef73149ef3f8606611db2524d4b  usr/lib/firefox/update-settings.ini
-0d6ec8819e2a9bb2ee978f8888c07830  usr/lib/firefox/webapprt/omni.ja
+f84cd972d92de9c2c4d6f2352aaf2245  usr/lib/firefox/webapprt/omni.ja
 13e005fc46bf5130b259812f1d908197  usr/lib/firefox/webapprt-stub
 f1aa6f44bf9dadf4700eaceb966a59fb  usr/lib/firefox/webapprt/webapprt.ini
 7e0a7b0ac48177ed6ce4734428f12d91  usr/share/applications/firefox.desktop
