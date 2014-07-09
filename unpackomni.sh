@@ -16,3 +16,4 @@ unpack_omni
 
 cd ./root/usr/lib/firefox/webapprt
 unpack_omni
+
