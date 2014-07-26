@@ -12,7 +12,7 @@ f9b700918938fec0a3730ce8d29d01b3  usr/lib/firefox/browser/chrome.manifest
 a6e5ff0c78ddfb1da7b6c518a537e067  usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}/icon.png
 539f5d6a2b264a0b8d84cb0076492950  usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}/install.rdf
 2c33a28d0fd6b94bffe717df9ca6a236  usr/lib/firefox/browser/icons/mozicon128.png
-49839bce9e57dd7379fb3695b2bba2c5  usr/lib/firefox/browser/omni.ja
+966b8aae0ffb419c09a64bbd87006bc6  usr/lib/firefox/browser/omni.ja
 71e1d0ed715ae02dfc4bc94c2d9ebf04  usr/lib/firefox/browser/searchplugins/amazondotcn.xml
 82a8676433022b239c069b107206aff3  usr/lib/firefox/browser/searchplugins/baidu.xml
 e191dcb256189343980c59e33ee5afb8  usr/lib/firefox/browser/searchplugins/baiduzhidao.xml
@@ -51,7 +51,7 @@ b1fe43f7e2a2ca3c549b0f664a630c43  usr/lib/firefox/libsoftokn3.so
 d38bc57b49750fe3698bf2469d902a9d  usr/lib/firefox/libssl3.so
 95036aa57c91973a326c2702bf9d9d4c  usr/lib/firefox/libxul.so
 a6d5e7c12a542dcb8c6bd8525ecc8e3d  usr/lib/firefox/mozilla-xremote-client
-cb24886e53d317a8249f0e81126bf8d5  usr/lib/firefox/omni.ja
+0ec177945b2e9dee98cb54a6ddc8b600  usr/lib/firefox/omni.ja
 06f99f6ccd864981a2500e2343252a17  usr/lib/firefox/platform.ini
 aa4f5d8aed185f873261cbd4aeb980d5  usr/lib/firefox/plugin-container
 4f51ae009629770607d3ab96cc36529c  usr/lib/firefox/precomplete
@@ -61,7 +61,7 @@ c06a12824481fa345b61a851e1e27478  usr/lib/firefox/run-mozilla.sh
 8ca65f76d90e534a9c64988ce979ea2f  usr/lib/firefox/updater
 c60066f08b5ce93c63763b5e0e118894  usr/lib/firefox/updater.ini
 9da60ef73149ef3f8606611db2524d4b  usr/lib/firefox/update-settings.ini
-3d1d96370b0564e57419a836fa0d3097  usr/lib/firefox/webapprt/omni.ja
+b3898cc08ec28f15e54eaee671ce3e5e  usr/lib/firefox/webapprt/omni.ja
 56204c4cad7725403f5260089bc810ba  usr/lib/firefox/webapprt-stub
 3bdf4fc11afe4af3865588e8926f8641  usr/lib/firefox/webapprt/webapprt.ini
 7e0a7b0ac48177ed6ce4734428f12d91  usr/share/applications/firefox.desktop
