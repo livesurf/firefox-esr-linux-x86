@@ -8,12 +8,16 @@ unpack_omni() {
     rm omni.ja
 }
 
+DIR=$(pwd)
+
 cd ./root/usr/lib/firefox/
 unpack_omni
 
+cd $DIR
 cd ./root/usr/lib/firefox/browser
 unpack_omni
 
+cd $DIR
 cd ./root/usr/lib/firefox/webapprt
 unpack_omni
 
